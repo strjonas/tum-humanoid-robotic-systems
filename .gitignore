@@ -1,0 +1,49 @@
+# ROS workspaces
+build/
+install/
+log/
+.ros/
+
+# Local environments and editor settings
+.pixi/
+.vm/
+.venv/
+venv/
+.vscode/
+.zed/
+.clangd
+pyrightconfig.json
+*.code-workspace
+
+# Caches and secrets
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+.DS_Store
+._*
+.env
+.env.*
+!.env.example
+
+# Course materials, recordings and submission archives
+slides/
+screenshots/
+camera_bag/
+bags/
+datasets/
+submissions/
+*.bag
+*.db3
+*.db3-shm
+*.db3-wal
+*.mcap
+*.utm/
+*.qcow2
+*.iso
+*.zip
+*.tar
+*.tar.gz
+*.tgz

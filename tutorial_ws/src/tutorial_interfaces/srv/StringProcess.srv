@@ -1,0 +1,4 @@
+string text
+---
+string reversed_text
+bool is_palindrome
